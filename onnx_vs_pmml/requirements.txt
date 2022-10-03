@@ -2,3 +2,11 @@ scikit-learn
 pandas
 git+https://github.com/jpmml/sklearn2pmml
 skl2onnx
+numpy
+nyoka
+onnxruntime
+packaging
+pandas
+pypmml
+scikit-learn
+skl2onnx
